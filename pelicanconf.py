@@ -33,6 +33,7 @@ DEFAULT_PAGINATION = 10
 ## Nice_blog setting:
 SIDEBAR_DISPLAY = ['about', 'categories', 'tags', 'extra']
 SIDEBAR_ABOUT = '''
-Hi, I am an incoming PhD student at University of Illinois, Urbana Champaign.
-
+Welcome!
+I am an incoming PhD student at University of Illinois, Urbana Champaign.
+And, you are reading my personal website
 '''
