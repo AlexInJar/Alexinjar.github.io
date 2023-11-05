@@ -1,0 +1,9 @@
+@article{jin2022enriched,
+  title={Enriched spatial analysis of air pollution: Application to the city of Bogot{\'a}, Colombia},
+  author={Jin, Zhexu and Vel{\'a}squez Angel, Mario Andr{\'e}s and Mura, Ivan and Franco, Juan Felipe},
+  journal={Frontiers in Environmental Science},
+  volume={10},
+  pages={966560},
+  year={2022},
+  publisher={Frontiers}
+}
