@@ -74,7 +74,9 @@ a:hover {
   text-decoration: none;
 }
 
-body,
+body {
+  font-family: Arial, Helvetica, sans-serif;
+},
 td,
 th,
 tr,
