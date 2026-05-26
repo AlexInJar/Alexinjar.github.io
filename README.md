@@ -1,1 +1,1 @@
-This is the source code to my public adademic website https://alexinjar.github.io
+ https://alexinjar.github.io
