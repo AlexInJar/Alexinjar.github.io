@@ -1,0 +1,8 @@
+@inproceedings{lin2024topout,
+  title={TopoUT: enhancing cell segmentation through efficient topological regularization},
+  author={Lin, Shanru and Sabyrbayev, Temirlan and Jin, Zhexu and Li, Gaoyang and Cao, Huansheng and Zou, Dongmian},
+  booktitle={2024 IEEE International Symposium on Biomedical Imaging (ISBI)},
+  pages={1--5},
+  year={2024},
+  organization={IEEE}
+}
