@@ -131,3 +131,16 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
+/* Slightly larger text in the Publications section */
+#publications td {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+#publications a,
+#publications papertitle,
+#publications strong,
+#publications em {
+  font-size: inherit;
+}
